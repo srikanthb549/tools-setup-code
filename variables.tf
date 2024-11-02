@@ -15,6 +15,6 @@ variable "zone_id" {
 }
 
 variable "domain_name" {
-  default = "rdevopsb81.online"
+  default = "sbakkolla.online"
 }
 
